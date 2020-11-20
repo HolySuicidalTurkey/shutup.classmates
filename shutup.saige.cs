@@ -6,11 +6,11 @@ public class shutupsaige
 {
 void Start
 {
-function Classmates.mute = "Shutup"
+function Classmates.mute = "Shutup";
 }
   void Update
   {
-  Classmates.Shutup("Saige")
-  Console.log("Shut up shut up shut up shut up")
+  Classmates.Shutup("Saige");
+  Console.log("Shut up shut up shut up shut up");
   }
  }
